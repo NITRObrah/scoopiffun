@@ -1,0 +1,119 @@
+[
+  {
+    "name": "What i'm Learning",
+    "imageUrl": "/assets/img/google-icon.webp",
+    "url": "openAg('https://whatimlearningarcticmath.vercel.app')"
+  },
+  {
+    "name": "DeepAI (WORKING)",
+    "imageUrl": "/assets/img/gpt.webp",
+    "url": "openAg('https://deepai.org')"
+  },
+  {
+    "name": "Site Chatting (WORKING)",
+    "imageUrl": "/assets/img/gemini.webp",
+    "url": "openAg('https://arcticmathsitechatting.vercel.app')"
+  },
+  {
+    "name": "Five Nights At Freddys 1 (WORKING)",
+    "imageUrl": "/assets/img/discord.webp",
+    "url": "openAg('https://arcticmathfivenightsatfreddys1.vercel.app')"
+  },
+  {
+    "name": "Five Nights At Freddys 2 (WORKING)",
+    "imageUrl": "/assets/img/twitter-x.webp",
+    "url": "openAg('https://arcticmathfivenightsatfreddys2.vercel.app')"
+  },
+  {
+    "name": "FIve Nights At Freddys 3 (WORKING)",
+    "imageUrl": "/assets/img/reddit.webp",
+    "url": "openAg('https://arcticmathfivenightsatfreddys3.vercel.app')"
+  },
+  {
+    "name": "Pinterest (NOT WORKING)",
+    "imageUrl": "/assets/img/pinterest.webp",
+    "url": "openAg('https://www.pinterest.com')"
+  },
+  {
+    "name": "Shuttle Math (BEST OPTION FOR GAMING)",
+    "imageUrl": "/assets/img/coolmathgames.webp",
+    "url": "openAg('https://shuttlemath.com')"
+  },
+  {
+    "name": "CrazyGames (KINDA BROKEN)",
+    "imageUrl": "/assets/img/crazygames.webp",
+    "url": "openAg('https://crazygames.com')"
+  },
+  {
+    "name": "Y8 Games (WORKING)",
+    "imageUrl": "/assets/img/y8.webp",
+    "url": "openAg('https://y8.com')"
+  },
+  {
+    "name": "GeForce Now (NOT WORKING)",
+    "imageUrl": "/assets/img/geforcenow.webp",
+    "url": "openAg('https://play.geforcenow.com')"
+  },
+  {
+    "name": "nowgg.fun (WORKING)",
+    "imageUrl": "/assets/img/nowgg.webp",
+    "url": "openAg('https://nowgg.fun')"
+  },
+  {
+    "name": "Partners (WORKING)",
+    "imageUrl": "/assets/img/chess.webp",
+    "url": "openAg('https://guns.lol/arcticpartners')"
+  },
+  {
+    "name": "Symbolab Math Solver (WORKING)",
+    "imageUrl": "/assets/img/symbolab.webp",
+    "url": "openAg('https://www.symbolab.com')",
+    "height": 130
+  },
+  {
+    "name": "YouTube (WORKING)",
+    "imageUrl": "/assets/img/youtube.webp",
+    "url": "openAg('https://youtube.com')"
+  },
+  {
+    "name": "Netflix (I DONT KNOW IF IT WORKS)",
+    "imageUrl": "/assets/img/netflix.webp",
+    "url": "openAg('https://netflix.com')"
+  },
+  {
+    "name": "SpenFlix (WORKING)",
+    "imageUrl": "/assets/img/movielogo.webp",
+    "url": "openAg('https://watch.spencerdevs.xyz')"
+  },
+  {
+    "name": "9anime (KINDA BROKEN)",
+    "imageUrl": "/assets/img/9anim.webp",
+    "url": "openAg('https://9animetv.to')"
+  },
+  {
+    "name": "Twitch (I DONT KNOW IF IT WORKS)",
+    "imageUrl": "/assets/img/twitch.webp",
+    "url": "openAg('https://twitch.tv')"
+  },
+  {
+    "name": "TikTok (KINDA BROKEN)",
+    "imageUrl": "/assets/img/tiktok.webp",
+    "url": "openAg('https://tiktok.com')"
+  },
+  {
+    "name": "SpotixOS (NOT WORKING)",
+    "imageUrl": "/assets/img/spotify.webp",
+    "url": "openAg('https://spotixos.vercel.app')"
+  },
+  {
+    "name": "GitHub (WORKING)",
+    "imageUrl": "/assets/img/github.webp",
+    "url": "openAg('https://github.com')"
+  },
+  {
+    "name": "Visual Studio Code (NOT WORKING)",
+    "imageUrl": "/assets/img/vscode.webp",
+    "url": "openAg('https://vscode.dev')",
+    "height": 130
+  }
+]
