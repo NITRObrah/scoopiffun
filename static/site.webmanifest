@@ -1,7 +1,7 @@
 {
-  "name": "Arctic 1.0",
-  "short_name": "Arctic 1.0",
-  "description": "Welcome to Arctic 1.0, one of the best web proxies for school and work",
+  "name": "site.w",
+  "short_name": "site.w",
+  "description": "Welcome to site.w, one of the best web proxies for school and work",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -38,3 +38,4 @@
     }
   ]
 }
+
